@@ -1,2 +1,2 @@
 # WAD
-trying out git commands
+E-commerce website using HTML, CSS
